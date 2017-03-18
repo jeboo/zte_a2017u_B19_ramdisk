@@ -1,0 +1,3 @@
+#covolution
+# add smd22 for CIQ
+/dev/smd22                0660   system     system
